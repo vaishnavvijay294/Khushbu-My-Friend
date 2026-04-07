@@ -1,0 +1,5 @@
+{
+  "name": "Khushbu - Your AI Girlfriend",
+  "description": "A real-time voice-to-voice AI assistant with a sweet, flirty, and expressive personality.",
+  "requestFramePermissions": ["microphone"]
+}
